@@ -12,11 +12,11 @@
 
 ## Description
 
-_{User inputs text in the box. Watch as page shouts it back to you!_
+_User inputs text in the box. Watch as page shouts it back to you!_
 
 ## Setup/Installation Requirements
 
-* _Click [here](https://louiesch.github.io/shouting-machine/) to view page._
+* _Click [here](https://louiesch.github.io/shouting-machine/) to view page. Type text into box, then hit 'enter'_
 
 ## Known Bugs
 
