@@ -25,6 +25,7 @@ _{User inputs text in the box. Watch as page shouts it back to you!_
 ## License
 
 _[MIT](https://choosealicense.com/licenses/mit/)_
+_Copyright (c) Louie Schoenknecht 2021_
 
 ## Contact Information
 
